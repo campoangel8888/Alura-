@@ -2,6 +2,10 @@
 
 The encryption process replaces specific vowels with corresponding encoded strings to obfuscate the original text.
 
+
+![result](https://github.com/user-attachments/assets/9224d38a-b108-42fd-b834-1c7e3bdf8656)
+
+
 ## Encryption Rules
 
 The following rules are used for encryption: - `'e'` => `'enter'` - `'i'` => `'imes'` - `'a'` => `'ai'` - `'o'` => `'ober'` - `'u'` => `'ufat'` ## Getting Started ### Prerequisites No special prerequisites are required. You only need a modern web browser to run the HTML file.
